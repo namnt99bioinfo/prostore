@@ -23,7 +23,7 @@ const AdminUserUpdatePage = async (props: {
 
   return (
     <div className='space-y-8 max-w-lg mx-auto'>
-      <h1 className='h2-bold'>Update Use hehe</h1>
+      <h1 className='h2-bold'>Update Use commit 1</h1>
       <UpdateUserForm user={user} />
     </div>
   );
